@@ -51,6 +51,378 @@
 					"name": "Alabama Crimson Tide",
 					"state": "Alabama"
 				},
+          "roster" : {
+            "OL" : {
+              "count" : 10,
+              "players" : [
+                {
+                  "ratPot" : "99",
+                  "position" : "OL",
+                  "ratDur" : "99",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "99"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "103"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "103"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "103"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "103"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "103"
+                    }
+                  },
+                  "jerseyNumber" : "57",
+                  "ratFootIQ" : "87",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Kentucky",
+                    "city" : "Pembroke",
+                    "height" : "6ft7in",
+                    "weight" : "301 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Myles Woelfle"
+                },
+                {
+                  "ratPot" : "65",
+                  "position" : "OL",
+                  "ratDur" : "79",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "61"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "94"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "79"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "97"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "65"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "98"
+                    }
+                  },
+                  "jerseyNumber" : "53",
+                  "ratFootIQ" : "61",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Texas",
+                    "city" : "Breckenridge",
+                    "height" : "6ft7in",
+                    "weight" : "319 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Ken Vesperas"
+                },
+                {
+                  "ratPot" : "91",
+                  "position" : "OL",
+                  "ratDur" : "75",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "67"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "87"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "75"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "85"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "91"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "99"
+                    }
+                  },
+                  "jerseyNumber" : "72",
+                  "ratFootIQ" : "67",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Michigan",
+                    "city" : "Bloomingdale",
+                    "height" : "6ft7in",
+                    "weight" : "305 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Emmanuel Alson"
+                },
+                {
+                  "ratPot" : "54",
+                  "position" : "OL",
+                  "ratDur" : "90",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "68"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "87"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "90"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "82"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "54"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "82"
+                    }
+                  },
+                  "jerseyNumber" : "56",
+                  "ratFootIQ" : "68",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "New Hampshire",
+                    "city" : "Deerfield",
+                    "height" : "6ft7in",
+                    "weight" : "388 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Brad Stahle"
+                },
+                {
+                  "ratPot" : "91",
+                  "position" : "OL",
+                  "ratDur" : "68",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "79"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "81"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "68"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "81"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "91"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "89"
+                    }
+                  },
+                  "jerseyNumber" : "71",
+                  "ratFootIQ" : "79",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Washington",
+                    "city" : "Deer Park",
+                    "height" : "6ft6in",
+                    "weight" : "317 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Nic Bagge"
+                },
+                {
+                  "ratPot" : "84",
+                  "position" : "OL",
+                  "ratDur" : "60",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "82"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "3-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "78"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "60"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "83"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "84"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "73"
+                    }
+                  },
+                  "jerseyNumber" : "69",
+                  "ratFootIQ" : "82",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Kentucky",
+                    "city" : "Shelbyville",
+                    "height" : "6ft6in",
+                    "weight" : "360 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Zac Heater"
+                },
+                {
+                  "ratPot" : "78",
+                  "position" : "OL",
+                  "ratDur" : "66",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "95"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "91"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "66"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "75"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "78"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "75"
+                    }
+                  },
+                  "jerseyNumber" : "52",
+                  "ratFootIQ" : "95",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Ohio",
+                    "city" : "Mount Victory",
+                    "height" : "6ft7in",
+                    "weight" : "306 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "William Pollutro"
+                },
+                {
+                  "ratPot" : "68",
+                  "position" : "OL",
+                  "ratDur" : "58",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "81"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "3-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "85"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "58"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "76"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "68"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "80"
+                    }
+                  },
+                  "jerseyNumber" : "61",
+                  "ratFootIQ" : "81",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "New Hampshire",
+                    "city" : "Warner",
+                    "height" : "6ft6in",
+                    "weight" : "324 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Jeremiah Trager"
+				},
 				{
 					"abbreviation": "UF",
 					"prestige": "0",
