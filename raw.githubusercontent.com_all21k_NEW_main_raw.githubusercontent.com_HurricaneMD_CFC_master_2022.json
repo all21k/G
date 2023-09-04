@@ -1,56 +1,42 @@
 {
 	"conferences": [{
-			"confTeams": [{
-					"abbreviation": "BAMA",
-					"prestige": "95",
-					"hexColor": "#9E1B32",
-					"offCoordinator": {
-						"contractLength": "10",
-						"startYear": "2022",
-						"age": "32",
-						"cumulativePrestige": "100",
-						"homeState": "Louisiana",
-						"ratPot": "120",
-						"hometown": "Dallas",
-						"ratTalent": "95",
-						"baselinePrestige": "95",
-						"coachingAbility": "95",
-						"name": "Adam Hart",
-						"contractYear": "0"
-					},
-					"defCoordinator": {
-						"contractLength": "10",
-						"startYear": "2022",
-						"age": "65",
-						"cumulativePrestige": "100",
-						"homeState": "Nevada",
-						"ratPot": "120",
-						"hometown": "Dunmore",
-						"ratTalent": "95",
-						"baselinePrestige": "95",
-						"coachingAbility": "95",
-						"name": "Vic Fangio",
-						"contractYear": "0"
-					},
-					"rival": "AUB",
-					"headCoach": {
-						"contractLength": "10",
-						"startYear": "2022",
-						"age": "71",
-						"ratOff": "100",
-						"cumulativePrestige": "100",
-						"ratDef": "100",
-						"homeState": "Nevada",
-						"ratPot": "120",
-						"hometown": "Fairmont",
-						"ratTalent": "95",
-						"baselinePrestige": "95",
-						"name": "Nick Saban",
-						"contractYear": "0"
-					},
-					"name": "Alabama Crimson Tide",
-					"state": "Alabama"
-				},
+			"confTeams": [{"abbreviation" : "BAMA",
+          "prestige" : "95",
+          "hexColor" : "#9E1B32",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "10",
+            "startYear" : "2022",
+            "age" : "32",
+            "cumulativePrestige" : "95",
+            "homeState" : "Texas",
+            "ratPot" : "95",
+            "hometown" : "Dallas",
+            "ratTalent" : "95",
+            "baselinePrestige" : "95",
+            "coachingAbility" : "95",
+            "name" : "Adam Hart",
+            "contractYear" : "1"
+          },
+          "rival" : [
+            "AUB"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "10",
+            "startYear" : "2022",
+            "age" : "65",
+            "cumulativePrestige" : "95",
+            "homeState" : "Pennsylvania",
+            "ratPot" : "95",
+            "hometown" : "Dunmore",
+            "ratTalent" : "95",
+            "baselinePrestige" : "95",
+            "coachingAbility" : "95",
+            "name" : "Vic Fangio",
+            "contractYear" : "1"
+          },
           "roster" : {
             "OL" : {
               "count" : 10,
@@ -422,7 +408,2219 @@
                   },
                   "year" : "4",
                   "name" : "Jeremiah Trager"
-				},
+                },
+                {
+                  "ratPot" : "71",
+                  "position" : "OL",
+                  "ratDur" : "81",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "82"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "3-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "71"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "81"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "73"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "71"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "89"
+                    }
+                  },
+                  "jerseyNumber" : "65",
+                  "ratFootIQ" : "82",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Delaware",
+                    "city" : "Fenwick Island",
+                    "height" : "6ft7in",
+                    "weight" : "348 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "James Crespino"
+                },
+                {
+                  "ratPot" : "83",
+                  "position" : "OL",
+                  "ratDur" : "52",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "63"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "4-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Blocking",
+                      "value" : "78"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "52"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "66"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "83"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Blocking",
+                      "value" : "87"
+                    }
+                  },
+                  "jerseyNumber" : "79",
+                  "ratFootIQ" : "63",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Indiana",
+                    "city" : "Marshall",
+                    "height" : "6ft7in",
+                    "weight" : "340 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Terry Clarbour"
+                }
+              ]
+            },
+            "WR" : {
+              "count" : 8,
+              "players" : [
+                {
+                  "ratPot" : "89",
+                  "position" : "WR",
+                  "ratDur" : "93",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "66"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "93"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "93"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "94"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "89"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "101"
+                    }
+                  },
+                  "jerseyNumber" : "46",
+                  "ratFootIQ" : "66",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Alaska",
+                    "city" : "Wrangell",
+                    "height" : "6ft4in",
+                    "weight" : "217 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Trevor On"
+                },
+                {
+                  "ratPot" : "87",
+                  "position" : "WR",
+                  "ratDur" : "95",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "93"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "4-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "99"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "95"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "82"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "87"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "88"
+                    }
+                  },
+                  "jerseyNumber" : "42",
+                  "ratFootIQ" : "93",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Nevada",
+                    "city" : "Carlin",
+                    "height" : "6ft3in",
+                    "weight" : "202 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Lebron Essaff"
+                },
+                {
+                  "ratPot" : "63",
+                  "position" : "WR",
+                  "ratDur" : "68",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "69"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "95"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "68"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "75"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "63"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "99"
+                    }
+                  },
+                  "jerseyNumber" : "34",
+                  "ratFootIQ" : "69",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "North Carolina",
+                    "city" : "Cove City",
+                    "height" : "6ft3in",
+                    "weight" : "214 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Tracy Smith"
+                },
+                {
+                  "ratPot" : "67",
+                  "position" : "WR",
+                  "ratDur" : "84",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "56"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "3-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "82"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "84"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "81"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "67"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "82"
+                    }
+                  },
+                  "jerseyNumber" : "21",
+                  "ratFootIQ" : "56",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "South Dakota",
+                    "city" : "Eureka",
+                    "height" : "6ft2in",
+                    "weight" : "210 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Darius Nowley"
+                },
+                {
+                  "ratPot" : "59",
+                  "position" : "WR",
+                  "ratDur" : "72",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "65"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "3-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "83"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "72"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "71"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "59"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "92"
+                    }
+                  },
+                  "jerseyNumber" : "14",
+                  "ratFootIQ" : "65",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Kansas",
+                    "city" : "Scammon",
+                    "height" : "6ft3in",
+                    "weight" : "200 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Buster Railey"
+                },
+                {
+                  "ratPot" : "69",
+                  "position" : "WR",
+                  "ratDur" : "88",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "82"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "4-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "77"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "88"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "83"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "69"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "72"
+                    }
+                  },
+                  "jerseyNumber" : "12",
+                  "ratFootIQ" : "82",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Ohio",
+                    "city" : "Diamond",
+                    "height" : "6ft5in",
+                    "weight" : "222 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Juwan Dayhoff"
+                },
+                {
+                  "ratPot" : "59",
+                  "position" : "WR",
+                  "ratDur" : "52",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "65"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "80"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "52"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "88"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "59"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "81"
+                    }
+                  },
+                  "jerseyNumber" : "0",
+                  "ratFootIQ" : "65",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "New York",
+                    "city" : "South Salem",
+                    "height" : "6ft5in",
+                    "weight" : "203 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Jordyn Bautz"
+                },
+                {
+                  "ratPot" : "67",
+                  "position" : "WR",
+                  "ratDur" : "73",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "82"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "77"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "73"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "90"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "67"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "74"
+                    }
+                  },
+                  "jerseyNumber" : "0",
+                  "ratFootIQ" : "82",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Texas",
+                    "city" : "Plains",
+                    "height" : "6ft5in",
+                    "weight" : "199 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Bailey McFadden"
+                }
+              ]
+            },
+            "CB" : {
+              "count" : 8,
+              "players" : [
+                {
+                  "ratPot" : "58",
+                  "position" : "CB",
+                  "ratDur" : "93",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "73"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "98"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "93"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "96"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "58"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "87"
+                    }
+                  },
+                  "jerseyNumber" : "14",
+                  "ratFootIQ" : "73",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Minnesota",
+                    "city" : "Otsego",
+                    "height" : "6ft0in",
+                    "weight" : "170 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Tye Mahomes"
+                },
+                {
+                  "ratPot" : "88",
+                  "position" : "CB",
+                  "ratDur" : "72",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "52"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "95"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "72"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "86"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "88"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "107"
+                    }
+                  },
+                  "jerseyNumber" : "34",
+                  "ratFootIQ" : "52",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Connecticut",
+                    "city" : "Plainville",
+                    "height" : "6ft2in",
+                    "weight" : "192 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Andre McRoberts"
+                },
+                {
+                  "ratPot" : "66",
+                  "position" : "CB",
+                  "ratDur" : "63",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "86"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "4-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "69"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "63"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "86"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "66"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "83"
+                    }
+                  },
+                  "jerseyNumber" : "6",
+                  "ratFootIQ" : "86",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Louisiana",
+                    "city" : "Ponchatoula",
+                    "height" : "6ft0in",
+                    "weight" : "188 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Billy Sowder"
+                },
+                {
+                  "ratPot" : "65",
+                  "position" : "CB",
+                  "ratDur" : "61",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "82"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "75"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "61"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "85"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "65"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "72"
+                    }
+                  },
+                  "jerseyNumber" : "29",
+                  "ratFootIQ" : "82",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "South Dakota",
+                    "city" : "Rapid City",
+                    "height" : "6ft2in",
+                    "weight" : "185 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Franklin Lockery"
+                },
+                {
+                  "ratPot" : "67",
+                  "position" : "CB",
+                  "ratDur" : "50",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "97"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "78"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "50"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "87"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "67"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "78"
+                    }
+                  },
+                  "jerseyNumber" : "0",
+                  "ratFootIQ" : "97",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Massachusetts",
+                    "city" : "Salisbury",
+                    "height" : "6ft1in",
+                    "weight" : "192 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Charles Morson"
+                },
+                {
+                  "ratPot" : "96",
+                  "position" : "CB",
+                  "ratDur" : "84",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "91"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "77"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "84"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "84"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "96"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "89"
+                    }
+                  },
+                  "jerseyNumber" : "0",
+                  "ratFootIQ" : "91",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Nebraska",
+                    "city" : "Long Pine",
+                    "height" : "6ft0in",
+                    "weight" : "192 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Scott Kiphart"
+                },
+                {
+                  "ratPot" : "88",
+                  "position" : "CB",
+                  "ratDur" : "52",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "67"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "83"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "52"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "99"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "88"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "98"
+                    }
+                  },
+                  "jerseyNumber" : "0",
+                  "ratFootIQ" : "67",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Oregon",
+                    "city" : "Troutdale",
+                    "height" : "6ft2in",
+                    "weight" : "189 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Lorenzo Fornili"
+                },
+                {
+                  "ratPot" : "78",
+                  "position" : "CB",
+                  "ratDur" : "59",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "76"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "82"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "59"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "87"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "78"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "77"
+                    }
+                  },
+                  "jerseyNumber" : "0",
+                  "ratFootIQ" : "76",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "District of Columbia",
+                    "city" : "Southeast Washington",
+                    "height" : "6ft1in",
+                    "weight" : "187 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Jackson Mosser"
+                }
+              ]
+            },
+            "S" : {
+              "count" : 2,
+              "players" : [
+                {
+                  "ratPot" : "53",
+                  "position" : "S",
+                  "ratDur" : "83",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "82"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "4-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "79"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "83"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "81"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "53"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "88"
+                    }
+                  },
+                  "jerseyNumber" : "24",
+                  "ratFootIQ" : "82",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Missouri",
+                    "city" : "Mansfield",
+                    "height" : "6ft1in",
+                    "weight" : "224 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Antoine Moorhead"
+                },
+                {
+                  "ratPot" : "91",
+                  "position" : "S",
+                  "ratDur" : "67",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "93"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "3-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "69"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "67"
+                    },
+                    "playerStat5" : {
+                      "name" : "Coverage",
+                      "value" : "88"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "91"
+                    },
+                    "playerStat7" : {
+                      "name" : "Tackling",
+                      "value" : "69"
+                    }
+                  },
+                  "jerseyNumber" : "17",
+                  "ratFootIQ" : "93",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Illinois",
+                    "city" : "Park Forest",
+                    "height" : "6ft1in",
+                    "weight" : "202 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Ross Kok"
+                }
+              ]
+            },
+            "TE" : {
+              "count" : 2,
+              "players" : [
+                {
+                  "ratPot" : "85",
+                  "position" : "TE",
+                  "ratDur" : "77",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "58"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "89"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "77"
+                    },
+                    "playerStat8" : {
+                      "name" : "Blocking",
+                      "value" : "83"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "102"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "85"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "103"
+                    }
+                  },
+                  "jerseyNumber" : "84",
+                  "ratFootIQ" : "58",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Maryland",
+                    "city" : "Kettering",
+                    "height" : "6ft5in",
+                    "weight" : "212 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Aubrey Druckhammer"
+                },
+                {
+                  "ratPot" : "73",
+                  "position" : "TE",
+                  "ratDur" : "55",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "53"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "98"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "55"
+                    },
+                    "playerStat8" : {
+                      "name" : "Blocking",
+                      "value" : "92"
+                    },
+                    "playerStat5" : {
+                      "name" : "Catching",
+                      "value" : "89"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "73"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "95"
+                    }
+                  },
+                  "jerseyNumber" : "41",
+                  "ratFootIQ" : "53",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "District of Columbia",
+                    "city" : "Washington",
+                    "height" : "6ft4in",
+                    "weight" : "226 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Lincoln Vari"
+                }
+              ]
+            },
+            "LB" : {
+              "count" : 8,
+              "players" : [
+                {
+                  "ratPot" : "93",
+                  "position" : "LB",
+                  "ratDur" : "50",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "57"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "85"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "50"
+                    },
+                    "playerStat5" : {
+                      "name" : "Tackling",
+                      "value" : "88"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "93"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "93"
+                    }
+                  },
+                  "jerseyNumber" : "10",
+                  "ratFootIQ" : "57",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "West Virginia",
+                    "city" : "Kermit",
+                    "height" : "6ft3in",
+                    "weight" : "238 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Royce Paulis"
+                },
+                {
+                  "ratPot" : "63",
+                  "position" : "LB",
+                  "ratDur" : "50",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "53"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "85"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "50"
+                    },
+                    "playerStat5" : {
+                      "name" : "Tackling",
+                      "value" : "75"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "63"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "99"
+                    }
+                  },
+                  "jerseyNumber" : "12",
+                  "ratFootIQ" : "53",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Connecticut",
+                    "city" : "Quinebaug",
+                    "height" : "6ft2in",
+                    "weight" : "245 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Leighton Hammette"
+                },
+                {
+                  "ratPot" : "84",
+                  "position" : "LB",
+                  "ratDur" : "79",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "73"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "70"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "79"
+                    },
+                    "playerStat5" : {
+                      "name" : "Tackling",
+                      "value" : "82"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "84"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "85"
+                    }
+                  },
+                  "jerseyNumber" : "54",
+                  "ratFootIQ" : "73",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "American Samoa",
+                    "city" : "Faga‘itua",
+                    "height" : "6ft4in",
+                    "weight" : "270 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Ito Vandonsel"
+                },
+                {
+                  "ratPot" : "73",
+                  "position" : "LB",
+                  "ratDur" : "54",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "79"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "3-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "70"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "54"
+                    },
+                    "playerStat5" : {
+                      "name" : "Tackling",
+                      "value" : "87"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "73"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "71"
+                    }
+                  },
+                  "jerseyNumber" : "28",
+                  "ratFootIQ" : "79",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Texas",
+                    "city" : "Burleson",
+                    "height" : "6ft4in",
+                    "weight" : "270 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Morgan Stefanski"
+                },
+                {
+                  "ratPot" : "55",
+                  "position" : "LB",
+                  "ratDur" : "65",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "94"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "86"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "65"
+                    },
+                    "playerStat5" : {
+                      "name" : "Tackling",
+                      "value" : "80"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "55"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "73"
+                    }
+                  },
+                  "jerseyNumber" : "21",
+                  "ratFootIQ" : "94",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Minnesota",
+                    "city" : "Keewatin",
+                    "height" : "6ft3in",
+                    "weight" : "274 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Nelson Kizzie"
+                },
+                {
+                  "ratPot" : "67",
+                  "position" : "LB",
+                  "ratDur" : "62",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "97"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "73"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "62"
+                    },
+                    "playerStat5" : {
+                      "name" : "Tackling",
+                      "value" : "77"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "67"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "67"
+                    }
+                  },
+                  "jerseyNumber" : "96",
+                  "ratFootIQ" : "97",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Alabama",
+                    "city" : "Tuscumbia",
+                    "height" : "6ft3in",
+                    "weight" : "268 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Miles Devenecia"
+                },
+                {
+                  "ratPot" : "82",
+                  "position" : "LB",
+                  "ratDur" : "80",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "95"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "3-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "82"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "80"
+                    },
+                    "playerStat5" : {
+                      "name" : "Tackling",
+                      "value" : "66"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "82"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "80"
+                    }
+                  },
+                  "jerseyNumber" : "40",
+                  "ratFootIQ" : "95",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Michigan",
+                    "city" : "McBain",
+                    "height" : "6ft2in",
+                    "weight" : "265 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Gavin Lundby"
+                },
+                {
+                  "ratPot" : "81",
+                  "position" : "LB",
+                  "ratDur" : "65",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "80"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "3-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "58"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "65"
+                    },
+                    "playerStat5" : {
+                      "name" : "Tackling",
+                      "value" : "65"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "81"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "61"
+                    }
+                  },
+                  "jerseyNumber" : "49",
+                  "ratFootIQ" : "80",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Hawaii",
+                    "city" : "Waimea",
+                    "height" : "6ft4in",
+                    "weight" : "244 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Jamal Muccia"
+                }
+              ]
+            },
+            "RB" : {
+              "count" : 4,
+              "players" : [
+                {
+                  "ratPot" : "95",
+                  "position" : "RB",
+                  "ratDur" : "93",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "94"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "79"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "93"
+                    },
+                    "playerStat8" : {
+                      "name" : "Catching",
+                      "value" : "88"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "92"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "95"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "74"
+                    }
+                  },
+                  "jerseyNumber" : "84",
+                  "ratFootIQ" : "94",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Alabama",
+                    "city" : "Sycamore",
+                    "height" : "6ft2in",
+                    "weight" : "224 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Travis Annino"
+                },
+                {
+                  "ratPot" : "90",
+                  "position" : "RB",
+                  "ratDur" : "76",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "91"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "3-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "85"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "76"
+                    },
+                    "playerStat8" : {
+                      "name" : "Catching",
+                      "value" : "88"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "72"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "90"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "81"
+                    }
+                  },
+                  "jerseyNumber" : "86",
+                  "ratFootIQ" : "91",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Maine",
+                    "city" : "Vanceboro",
+                    "height" : "6ft0in",
+                    "weight" : "215 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Nicholas Zagorac"
+                },
+                {
+                  "ratPot" : "59",
+                  "position" : "RB",
+                  "ratDur" : "74",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "78"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "89"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "74"
+                    },
+                    "playerStat8" : {
+                      "name" : "Catching",
+                      "value" : "86"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "72"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "59"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "69"
+                    }
+                  },
+                  "jerseyNumber" : "0",
+                  "ratFootIQ" : "78",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Nebraska",
+                    "city" : "Albion",
+                    "height" : "5ft11in",
+                    "weight" : "227 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Vernon Wolffe"
+                },
+                {
+                  "ratPot" : "74",
+                  "position" : "RB",
+                  "ratDur" : "71",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "82"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Speed",
+                      "value" : "89"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "71"
+                    },
+                    "playerStat8" : {
+                      "name" : "Catching",
+                      "value" : "79"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "70"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "74"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "85"
+                    }
+                  },
+                  "jerseyNumber" : "0",
+                  "ratFootIQ" : "82",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "California",
+                    "city" : "Culver City",
+                    "height" : "5ft11in",
+                    "weight" : "213 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Dallas Dipaola"
+                }
+              ]
+            },
+            "DL" : {
+              "count" : 8,
+              "players" : [
+                {
+                  "ratPot" : "84",
+                  "position" : "DL",
+                  "ratDur" : "99",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "69"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "81"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "99"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "97"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "84"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "100"
+                    }
+                  },
+                  "jerseyNumber" : "61",
+                  "ratFootIQ" : "69",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Wyoming",
+                    "city" : "Reliance",
+                    "height" : "6ft2in",
+                    "weight" : "255 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Kenneth Jerido"
+                },
+                {
+                  "ratPot" : "97",
+                  "position" : "DL",
+                  "ratDur" : "91",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "60"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "87"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "91"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "95"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "97"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "94"
+                    }
+                  },
+                  "jerseyNumber" : "72",
+                  "ratFootIQ" : "60",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Rhode Island",
+                    "city" : "Wyoming",
+                    "height" : "6ft2in",
+                    "weight" : "332 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Eric Delce"
+                },
+                {
+                  "ratPot" : "72",
+                  "position" : "DL",
+                  "ratDur" : "90",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "54"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "101"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "90"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "86"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "72"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "87"
+                    }
+                  },
+                  "jerseyNumber" : "52",
+                  "ratFootIQ" : "54",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "South Dakota",
+                    "city" : "Midland",
+                    "height" : "6ft2in",
+                    "weight" : "347 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Bryon Maytorena"
+                },
+                {
+                  "ratPot" : "86",
+                  "position" : "DL",
+                  "ratDur" : "84",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "87"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "4-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "93"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "84"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "79"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "86"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "76"
+                    }
+                  },
+                  "jerseyNumber" : "96",
+                  "ratFootIQ" : "87",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Maryland",
+                    "city" : "Lake Arbor",
+                    "height" : "6ft3in",
+                    "weight" : "275 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Victor Fresch"
+                },
+                {
+                  "ratPot" : "90",
+                  "position" : "DL",
+                  "ratDur" : "68",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "51"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "74"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "68"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "78"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "90"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "78"
+                    }
+                  },
+                  "jerseyNumber" : "63",
+                  "ratFootIQ" : "51",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Florida",
+                    "city" : "Azalea Park",
+                    "height" : "6ft3in",
+                    "weight" : "302 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Clifford Parter"
+                },
+                {
+                  "ratPot" : "78",
+                  "position" : "DL",
+                  "ratDur" : "61",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "88"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "77"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "61"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "76"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "78"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "76"
+                    }
+                  },
+                  "jerseyNumber" : "66",
+                  "ratFootIQ" : "88",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "California",
+                    "city" : "Woodland Hills",
+                    "height" : "6ft2in",
+                    "weight" : "322 lbs"
+                  },
+                  "year" : "2",
+                  "name" : "Lewis Youell"
+                },
+                {
+                  "ratPot" : "62",
+                  "position" : "DL",
+                  "ratDur" : "89",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "59"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "73"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "89"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "78"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "62"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "72"
+                    }
+                  },
+                  "jerseyNumber" : "64",
+                  "ratFootIQ" : "59",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Idaho",
+                    "city" : "Dayton",
+                    "height" : "6ft3in",
+                    "weight" : "336 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Baron Simmons"
+                },
+                {
+                  "ratPot" : "92",
+                  "position" : "DL",
+                  "ratDur" : "86",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "96"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "3-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Run Stopping",
+                      "value" : "72"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "86"
+                    },
+                    "playerStat5" : {
+                      "name" : "Strength",
+                      "value" : "58"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "92"
+                    },
+                    "playerStat7" : {
+                      "name" : "Pass Pressure",
+                      "value" : "79"
+                    }
+                  },
+                  "jerseyNumber" : "70",
+                  "ratFootIQ" : "96",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Mississippi",
+                    "city" : "Brookhaven",
+                    "height" : "6ft2in",
+                    "weight" : "231 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Ross Bohn"
+                }
+              ]
+            },
+            "QB" : {
+              "count" : 2,
+              "players" : [
+                {
+                  "ratPot" : "66",
+                  "position" : "QB",
+                  "ratDur" : "80",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "59"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Throwing Accuracy",
+                      "value" : "80"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "80"
+                    },
+                    "playerStat8" : {
+                      "name" : "Speed",
+                      "value" : "87"
+                    },
+                    "playerStat5" : {
+                      "name" : "Throwing Power",
+                      "value" : "70"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "66"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "80"
+                    }
+                  },
+                  "jerseyNumber" : "18",
+                  "ratFootIQ" : "59",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Georgia",
+                    "city" : "Wrightsville",
+                    "height" : "6ft4in",
+                    "weight" : "198 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Carlos Coples"
+                },
+                {
+                  "ratPot" : "50",
+                  "position" : "QB",
+                  "ratDur" : "87",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "56"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "4-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Throwing Accuracy",
+                      "value" : "66"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "87"
+                    },
+                    "playerStat8" : {
+                      "name" : "Speed",
+                      "value" : "62"
+                    },
+                    "playerStat5" : {
+                      "name" : "Throwing Power",
+                      "value" : "62"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "50"
+                    },
+                    "playerStat7" : {
+                      "name" : "Evasion",
+                      "value" : "64"
+                    }
+                  },
+                  "jerseyNumber" : "19",
+                  "ratFootIQ" : "56",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Minnesota",
+                    "city" : "Lester Prairie",
+                    "height" : "6ft3in",
+                    "weight" : "212 lbs"
+                  },
+                  "year" : "1",
+                  "name" : "Caleb Houten"
+                }
+              ]
+            },
+            "K" : {
+              "count" : 2,
+              "players" : [
+                {
+                  "ratPot" : "53",
+                  "position" : "K",
+                  "ratDur" : "57",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "82"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "5-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Kick Accuracy",
+                      "value" : "94"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "57"
+                    },
+                    "playerStat5" : {
+                      "name" : "Kick Power",
+                      "value" : "82"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "53"
+                    },
+                    "playerStat7" : {
+                      "name" : "Clumsiness",
+                      "value" : "99"
+                    }
+                  },
+                  "jerseyNumber" : "11",
+                  "ratFootIQ" : "82",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Utah",
+                    "city" : "Huntingdon",
+                    "height" : "6ft0in",
+                    "weight" : "191 lbs"
+                  },
+                  "year" : "3",
+                  "name" : "Joe Oakey"
+                },
+                {
+                  "ratPot" : "61",
+                  "position" : "K",
+                  "ratDur" : "76",
+                  "ratings" : {
+                    "playerStat4" : {
+                      "name" : "Football IQ",
+                      "value" : "60"
+                    },
+                    "playerStat1" : {
+                      "name" : "Recruit Rating",
+                      "value" : "3-star"
+                    },
+                    "playerStat6" : {
+                      "name" : "Kick Accuracy",
+                      "value" : "70"
+                    },
+                    "playerStat3" : {
+                      "name" : "Durability",
+                      "value" : "76"
+                    },
+                    "playerStat5" : {
+                      "name" : "Kick Power",
+                      "value" : "80"
+                    },
+                    "playerStat2" : {
+                      "name" : "Potential",
+                      "value" : "61"
+                    },
+                    "playerStat7" : {
+                      "name" : "Clumsiness",
+                      "value" : "86"
+                    }
+                  },
+                  "jerseyNumber" : "7",
+                  "ratFootIQ" : "60",
+                  "startYear" : "2023",
+                  "personalDetails" : {
+                    "home_state" : "Oregon",
+                    "city" : "Tunbridge",
+                    "height" : "6ft0in",
+                    "weight" : "197 lbs"
+                  },
+                  "year" : "4",
+                  "name" : "Drew Shoff"
+                }
+              ]
+            }
+          },
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2022",
+            "age" : "71",
+            "ratOff" : "95",
+            "cumulativePrestige" : "95",
+            "ratDef" : "95",
+            "homeState" : "West Virginia",
+            "ratPot" : "95",
+            "hometown" : "Fairmont",
+            "ratTalent" : "95",
+            "baselinePrestige" : "95",
+            "name" : "Nick Saban",
+            "contractYear" : "1"
+          }
+					
 				{
 					"abbreviation": "UF",
 					"prestige": "0",
